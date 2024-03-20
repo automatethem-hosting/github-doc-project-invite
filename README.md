@@ -9,14 +9,16 @@ github.com 에 로그인후 프로젝트 생성후 automatethem 을 초대 부�
 
 ![](attach_files/2.PNG?raw=true)
 
+## 프로젝트 생성후 
+
 ![](attach_files/3.PNG?raw=true)
 
 ![](attach_files/4.PNG?raw=true)
 
-## 프로젝트 생성후 automatethem 을 초대 부탁드립니다.
-
 ![](attach_files/5.PNG?raw=true)
 
 ![](attach_files/6.PNG?raw=true)
+
+## automatethem 을 초대 부탁드립니다.
 
 ![](attach_files/7.PNG?raw=true)
